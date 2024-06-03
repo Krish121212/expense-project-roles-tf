@@ -2,3 +2,4 @@ login_host: db-dev.devopskk.online
 login_user: root
 login_password: Krish1212
 DB_HOST: db-dev.devopskk.online
+Backend_url: backend.app-dev.devopskk.online
